@@ -1,2 +1,2 @@
 # vecDB
-Weaviate, but running locally. Simple, yet fun to use and reuse. A simple vector database, is easily used 
+Weaviate, but running locally. Simple, yet fun to use and reuse. A simple vector database, simulates a knowledge graph.
